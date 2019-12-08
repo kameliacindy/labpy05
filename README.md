@@ -69,4 +69,11 @@ Perintah untuk memilih salah satu menu yang tersedia.
 ### Contoh Output yang dihasilkan
 
 ![enter image description here](https://github.com/kameliacindy/labpy05/blob/master/img/10.PNG)
+
+### Flowchart
+
+ ![enter image description here](https://github.com/kameliacindy/labpy05/blob/master/img/flow.png)
+ 
+ Nama : Kamelia Cindy Astuti (311910104)
+ Kelas: TI.19.A.1
  
